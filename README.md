@@ -16,22 +16,22 @@ https://www.linkedin.com/in/malik-s-0704b6154/
 
 ### Learnt Programming Languages:
 
-* JavaScript
-* Java
-* C#
 * Arduino C
-* C
-* C++
+* Android Java
 * Atmel Assembly
 * ASP.NET
-* SQL
-* Processing
-* Windows Batch
-* BASH shell
-* PHP
-* Android
+* BASH Shell
+* C
+* C#
+* C++
+* Github CommandLine
 * Haskell
+* Java
+* PHP
+* Processing Java
 * Python
+* SQL
+* Windows CMD/Batch/PowerShell
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalikS789&theme=graywhite&layout=compact&hide_border=true)
 
