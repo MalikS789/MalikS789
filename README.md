@@ -32,6 +32,7 @@ I also have several applications on the Android App Store [**here**](https://pla
 * Python
 * SQL
 * Windows CMD/Batch/PowerShell
+* XQuery
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalikS789&theme=graywhite&layout=compact&hide_border=true)
 
