@@ -6,13 +6,11 @@ This isn't all the code i've created!
   <img src="https://developer.android.com/images/brand/Android_Robot.png" width="100">
 </p>
 
-I also have several applications on the Android App Store here: 
-https://play.google.com/store/apps/developer?id=Mysters789&hl=en_US&gl=US
+I also have several applications on the Android App Store [**here**](https://play.google.com/store/apps/developer?id=Mysters789&hl=en_US&gl=US) 
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/200px-LinkedIn_Logo.svg.png" width="200">
+  <a href="https://www.linkedin.com/in/malik-s-0704b6154/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/200px-LinkedIn_Logo.svg.png" width="200"></a>
 </p>
-https://www.linkedin.com/in/malik-s-0704b6154/
 
 ### Learnt Programming Languages:
 
