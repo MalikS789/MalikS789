@@ -36,6 +36,4 @@ I also have several applications on the Android App Store [**here**](https://pla
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalikS789&theme=graywhite&layout=compact&hide_border=true)
 
-📈 My GitHub Stats
-
 <img src="https://github-readme-stats.vercel.app/api?username=maliks789&show_icons=true&theme=graywhitee&layout=compact&hide_border=true" alt="abhisheknaiidu" />
