@@ -11,8 +11,12 @@ This isn't all the code i've created!
 I also have several applications on the Android App Store [**here**](https://play.google.com/store/apps/developer?id=Mysters789&hl=en_US&gl=US) 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/malik-s-0704b6154/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/200px-LinkedIn_Logo.svg.png" width="200"></a>
+  <a href="https://www.linkedin.com/in/malik-s-0704b6154/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/200px-LinkedIn_Logo.svg.png" width="100"></a>
 </p>
+
+I have ported my train app to the PS VITA, via the homebrew community:
+https://vitadb.rinnegatamante.it/#/info/598
+
 
 ### Learnt Programming Languages:
 
