@@ -44,6 +44,7 @@ https://vitadb.rinnegatamante.it/#/info/598
 * Bootstrap <img src ="https://github.com/leopiccionia/programmicons/blob/master/src/bootstrap.svg" width="30">
 * CSS <img src ="https://github.com/leopiccionia/programmicons/blob/master/src/css3.svg" width="30">
 * HTML <img src="https://github.com/leopiccionia/programmicons/blob/master/src/html5.svg" width="30">
+* jQuery 
 * JSON <img src="https://github.com/leopiccionia/programmicons/blob/master/src/json.svg" width="30">
 * Markdown <img src="https://github.com/leopiccionia/programmicons/blob/master/src/markdown.svg" width="30">
 * MongoDB <img src="https://github.com/leopiccionia/programmicons/blob/master/src/mongodb.svg" width="30">
